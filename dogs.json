@@ -44,5 +44,8 @@
     { "dog": "tucker", "img": "http://wpc.E37B1.taucdn.net/00E37B1/dogs/tucker_nappy.jpg"},
     { "dog": "tucker", "img": "http://wpc.E37B1.taucdn.net/00E37B1/dogs/tucker_photogenic.JPG"},
     { "dog": "tucker", "img": "http://wpc.E37B1.taucdn.net/00E37B1/dogs/tucker_watch_dog.jpg"},
-    { "dog": "bruce", "img": "https://moar.edgecats.net/meme/Kronudiel-Vull-Droduss.png" }
+    { "dog": "bruce", "img": "https://moar.edgecats.net/meme/Kronudiel-Vull-Droduss.png" },
+    { "dog": "coco", "img": "http://wpc.3347.edgecastcdn.net/003347/dogs/coco1.jpg" },
+    { "dog": "coco", "img": "http://wpc.3347.edgecastcdn.net/003347/dogs/come_back_dave.jpg" },
+    { "dog": "coco", "img": "http://wpc.3347.edgecastcdn.net/003347/dogs/dont_go_dave.jpg" }
 ]
